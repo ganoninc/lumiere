@@ -1,0 +1,184 @@
+{
+	"name": "Romain Giovanetti",
+	"dateOfBirth": "01/09/1990",
+	"version": 1.0,
+	"nationality": "french",
+	"localisation": "Lille, France",
+	"twitterProfileURL": "https://twitter.com/Ganoninc",
+	"linkedInProfileURL": "https://www.linkedin.com/in/romainjg",
+	"phoneNumber": "00 336 09 03 42 27",
+	"email": "rgiovanetti/at/outlook.com",
+	"lastUpdate": "04/14/2016",
+	"PickUpLine": "Motivated and curious full-stack designer with a master’s degree in computer science and a strong exchange experience in Austria",
+	"workExperience": [
+		{
+			"as": "Full-stack designer",
+			"for": "CNRS (The French National Center For Scientific Research) / CRISTAL / NOCE Team (New Tools For Collaboration And Learning)",
+			"forURL": "http://cristal.univ-lille.fr",
+			"from": "10/01/2014",
+			"to": "08/01/2016",
+			"where": "Lille, France",
+			"description": "Designing and building a hardware and software architecture that makes possible the capture and the analyse of thousands of tweets per second. Those tweets are received via the Twitter streaming APIs. Coding some python services that analyse the captured tweets. Creating a web application using AngularJS and Node.js which offers the possibility of consulting the results. Research and development.",
+			"mainTechnologies": [
+				{
+					"name": "Elasticsearch",
+					"url": "https://www.elastic.co/products/elasticsearch"
+				},
+				{
+					"name": "Twitter's Streaming API",
+					"url": "https://dev.twitter.com/streaming/overview"
+				},
+				{
+					"name": "AngularJS",
+					"url": "https://angularjs.org"
+				},
+				{
+					"name": "Node.js",
+					"url": "https://nodejs.org/en/"
+				},
+				{
+					"name": "Python",
+					"url": "https://www.python.org"
+				},
+				{
+					"name": "Ubuntu",
+					"url": "http://www.ubuntu.com"
+				}
+			],
+			"mainProjectUrl": "http://expnoce.lifl.fr:8000"
+		},
+		{
+			"as": "Software Project Manager & Full-stack designer",
+			"for": "La Maison De L'Eleveur",
+			"forURL": "http://www.lamaisondeleleveur.fr",
+			"from": "06/01/2014",
+			"to": "09/01/2016",
+			"where": "Vouziers, France",
+			"description": "Rebuilding from scratch the website of La Maison De L’Eleveur. Revising the firm’s catalogue (more than 1500 references). Designing simple and intuitive user interfaces. Working with Symfony 2, Twitter Bootstrap and jQuery. Deploying the website, maintaining it and improving it according to users’s feedback.",
+			"mainTechnologies": [
+				{
+					"name": "Symfony 2",
+					"url": "https://symfony.com"
+				},
+				{
+					"name": "jQuery",
+					"url": "https://jquery.com"
+				},
+				{
+					"name": "Bootstrap",
+					"url": "http://getbootstrap.com"
+				}
+			],
+			"mainProjectUrl": "http://www.lamaisondeleleveur.fr"
+		},
+		{
+			"as": "Software & Hardware Engineer",
+			"for": "CNRS (The French National Center For Scientific Research) / CRISTAL / NOCE Team (New Tools For Collaboration And Learning)",
+			"forURL": "http://cristal.univ-lille.fr",
+			"from": "03/01/2013",
+			"to": "02/01/2014",
+			"where": "Lille, France",
+			"description": "Gathering articles about interaction in museums, museums and human–computer interaction. Designing new devices using Arduino to create new interactions that upgrade the visitor experience. Imagining and building a lite and efficient system to monitor and setup the created new devices. Evaluating the devices and providing a nice way to browse the results of the experiment.",
+			"mainTechnologies": [
+				{
+					"name": "Arduino",
+					"url": "https://www.arduino.cc"
+				},
+				{
+					"name": "Node.js",
+					"url": "https://nodejs.org/en/"
+				},
+				{
+					"name": "Java",
+					"url": "https://www.java.com"
+				}
+			]
+		},
+		{
+			"as": "Waiter",
+			"for": "Flunch (Restaurant)",
+			"forURL": "www.flunch.fr",
+			"from": "07/01/2011",
+			"to": "09/01/2011",
+			"where": "Châlons-en-Champagne, France",
+			"description": "Keeping the main public areas, the tables and, the toilets clean."
+		},
+		{
+			"as": "Web developer",
+			"for": "Oeil pour Oeil",
+			"forURL": "http://www.oeilpouroeil.fr",
+			"from": "03/01/2013",
+			"to": "02/01/2014",
+			"where": "Lille, France",
+			"description": "Writing a dynamic report about the new features of HTML5 and CSS3 and how they are supported by the most used browsers. Building a CMS with Zend Framework and using CSS3, HTML5 and JQuery for the front-end. Dealing with responsive design problematics.",
+			"mainTechnologies": [
+				{
+					"name": "Zend Framework",
+					"url": "http://framework.zend.com"
+				},
+				{
+					"name": "jQuery",
+					"url": "https://jquery.com"
+				}
+			]
+		},
+		{
+			"as": "Windev developer",
+			"for": "JVS",
+			"forURL": "http://www.jvs-mairistem.fr",
+			"from": "04/01/2010",
+			"to": "07/01/2010",
+			"where": "Saint Martin sur le Pré, France",
+			"description": "Designing web services and use them through a Graphical User Interface in order to help the creation of a new software that collect and summarize data from different softwares without opening them.",
+			"mainTechnologies": [
+				{
+					"name": "Windev",
+					"url": "http://www.pcsoft.fr/windev/"
+				}
+			]
+		}
+	],
+	"education": [
+		{
+			"title": "Master's Degree in Computer Science",
+			"provider": "Université de Lille 1 Sciences et Technologies",
+			"when": 2013,
+			"where": "Lille, France",
+		},
+		{
+			"title": "Erasmus Semester (Master's Degree)",
+			"provider": "TU Graz",
+			"when": 2012,
+			"where": "Graz, Austria",
+		},
+		{
+			"title": "Bachelor's Degree in Computer Science",
+			"provider": "Université de Lille 1 Sciences et Technologies",
+			"when": 2011,
+			"where": "Lille, France",
+		},
+		{
+			"title": "Deug in Computer Science",
+			"provider": "Université de Reims Champagne Ardennes",
+			"when": 2010,
+			"where": "Reims, France",
+		},
+		{
+			"title": "High School Diploma in Economic and Social Sciences",
+			"provider": "Lycée Pierre Bayen",
+			"when": 2008,
+			"where": "Châlons-en-Champagne, France",
+		}
+	],
+	"skills":[
+		"Upper intermediate level in english (level C1) and elementary german (level A2).",
+		"Interested in user experience, simplicity, common sense, human–computer interaction, look and feel and, usability.",
+		"Object-oriented and functional programming.",
+		"Node.js, AngularJS, JQuery, HTML5, CSS, Elasticsearch, Symfony 2, Bootstrap, Software as Service…",
+		"Expert user of OS X, Ubuntu and Windows, advanced user of Adobe Photoshop, Logic Pro X and Final Cut Pro. Network management."
+	],
+	"Interests":[
+		"Worldwide and local tourism.",
+		"Clarinet player (conservatoire de musique agréé et de danse « Jean-Philippe Rameau »; Châlons-en-Champagne), guitarist and drummer."
+	]
+}
